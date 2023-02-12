@@ -1,4 +1,4 @@
-# Image Classification using DL
+# Image Classification Using DL
 Download the bvlc_googlenet.caffemodel from the here ☛ :  [Click Here](http://dl.caffe.berkeleyvision.org/bvlc_googlenet.caffemodel)
 <br>
 
